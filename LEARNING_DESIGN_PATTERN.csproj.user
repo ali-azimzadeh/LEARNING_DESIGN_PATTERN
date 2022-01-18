@@ -4,7 +4,31 @@
     <ShowAllFiles>false</ShowAllFiles>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Update="Decorator\Philosophy\DecoratorPhilosophyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Decorator\SampleDecorator\BorderDecorator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Decorator\SampleDecorator\Decorator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Decorator\SampleDecorator\PictureDecorator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Decorator\SampleDecorator\SampleDecoratorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Decorator\SampleDecorator\TextDecorator.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Update="Memento\MementoSampleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Observer\MediatorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Observer\ObserverForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Singletone\SingletoneForm.cs">

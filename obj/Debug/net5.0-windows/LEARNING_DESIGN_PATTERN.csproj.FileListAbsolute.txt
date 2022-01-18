@@ -1,4 +1,5 @@
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\bin\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.exe
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\bin\Debug\net5.0-windows\Decorator\SampleDecorator\Test.jpg
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\bin\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.deps.json
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\bin\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.runtimeconfig.json
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\bin\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.runtimeconfig.dev.json
@@ -6,6 +7,8 @@ D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTE
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\bin\Debug\net5.0-windows\ref\LEARNING_DESIGN_PATTERN.dll
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\bin\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.pdb
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.Decorator.Philosophy.DecoratorPhilosophyForm.resources
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.Decorator.SampleDecorator.SampleDecoratorForm.resources
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.Memento.MementoSampleForm.resources
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.Singletone.SingletoneForm.resources
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.csproj.GenerateResource.cache
@@ -17,3 +20,5 @@ D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTE
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\ref\LEARNING_DESIGN_PATTERN.dll
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.pdb
 D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.genruntimeconfig.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.Observer.MediatorForm.resources
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_DESIGN_PATTERN\LEARNING_DESIGN_PATTERN\obj\Debug\net5.0-windows\LEARNING_DESIGN_PATTERN.Observer.ObserverForm.resources

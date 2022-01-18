@@ -18,9 +18,15 @@ namespace LEARNING_DESIGN_PATTERN
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-           // Application.Run(new Singletone.SingletoneForm());
+            // Application.Run(new Singletone.SingletoneForm());
 
-            Application.Run(new Memento.MementoSampleForm());
+            //Application.Run(new Memento.MementoSampleForm());
+
+             //           Application.Run(new Decorator.Philosophy.DecoratorPhilosophyForm());
+                      //  Application.Run(new Decorator.SampleDecorator.SampleDecoratorForm());
+
+            Application.Run(new Observer.MediatorForm());
+
         }
     }
 }
